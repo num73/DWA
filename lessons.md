@@ -2,3 +2,4 @@
 2. 可以使用AI来生成prompt。
 3. `sudo "$(command -v codex)" --yolo` 可以让codex拥有sudo权限，并且可以让codex不需要确认的情况下自动执行任务。
 4. 如果有两台电脑（一台控制机 + 一台实验机），可以让AI很方便地测试内核。
+5. AI可以调用并控制AI。
